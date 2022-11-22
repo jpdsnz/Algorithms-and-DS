@@ -1,0 +1,18 @@
+//------ Interview Questions ------//
+If you know a solution is not far from the root of the tree?
+  BFS
+If the tree is very wide?
+  DFS, b/c BFS will need too much memory and it needs to keep track of nodes with a queue
+
+If the tree is very deep and solutions are rare?
+  BFS, because DFS will take a long time with this type of tree because it is deep, b/c
+  solutions are rare, it will repeat
+
+If the solutions are frequent but located deep in the tree?
+  DFS, because you should be able to find it quicker
+
+Determining whether a path exists between two nodes?
+  DFS
+
+Finding the shortest path?
+  BFS

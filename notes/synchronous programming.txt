@@ -1,0 +1,20 @@
+synchronous programming 
+	- execute one line at a time or statement at a time (single threaded)
+	- asynchronous can skip lines due to delay
+
+why is an unbalanced BST bad?
+	- because in worst case scenarios, these trees have O(n) time for lookup 
+
+Recursion:
+	- can be used to make dcode more readable
+	- can be costly in terms of time complexity and memory (stack overflow!)
+	- anything you can do with recursion CAN be done with loops (iteratively!)
+		- used in merge sort, quick sort, tree traversal, graph traversal!
+
+Sorting Algorithms:
+	- Bubble:
+	- Insertion:
+	- Selection:
+	- Merge:
+	- Quick:
+	
